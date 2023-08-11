@@ -1,27 +1,48 @@
+# Merhaba, 👋 Ben Fahrettin Rıza ERGİN
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fahrettinrizaergin) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/byfahrettinrizaergin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahrettin_riza_ergin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fahrettin-riza-ergin) 
+## 🚀 Hakkımda
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats: 
-![](https://github-readme-stats.vercel.app/api?username=fahrettinrizaergin&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fahrettinrizaergin&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrettinrizaergin&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Hello, I am Fahrettin Rıza Ergin! I was born on January 3rd, 2001, and I live in Antalya. I believe that I am at the right time and the right place to embark on a passionate journey in the world of software.
+I started my educational journey at Ali Rıza Altıntaş Primary School and Middle School. My interest in technology grew further when I received education in computer programming and web design at Kepez Vocational and Technical Anatolian High School. This educational process became a cornerstone for me, laying the foundations for my future career.
+During my university years, I studied computer programming at Atatürk University. Throughout this period, I made efforts to enhance my knowledge and skills, constantly striving to renew myself. Thanks to internships, I had the opportunity to gain real-world experience.
+Since my graduation, I have been working as a software developer at Eticsoft Information and Technologies Inc. Throughout my three years at the company, I have been involved in various projects and provided technical solutions to solve different challenges. I consider myself hardworking and disciplined, and I believe these qualities have been fundamental reasons behind my achievements.
+The constantly changing and evolving nature of the software world excites me. I enjoy keeping up with technology and learning about new trends. This way, I continuously improve myself to deliver the best solutions to customers.
+I have big dreams for the future. I want to be part of new projects, tackle complex problems, and achieve success in the software world. Additionally, one of my main goals is to contribute to making the world a better place by utilizing technology to ease people's lives.
+Being immersed in the beauty and nature of Antalya brings me a unique sense of happiness. I am enjoying the advantages of living and working in this beautiful city.
+To make an impact and contribute to the software world, I will continue to develop myself through education and work experience. I am determined to strive for even greater achievements and make a name for myself in the industry.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fahrettinrizaergin&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+## 💻 Teknolojik Beceriler
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+- **Diller:** Python (kendimi geliştirmeye devam ediyorum), JavaScript (kendimi geliştirmeye devam ediyorum), Php  (kendimi geliştirmeye devam ediyorum), Dart (Flutter) (kendimi geliştirmeye devam ediyorum)
+- **Web Geliştirme:** HTML, CSS, JavaScript, frontend ve backend teknolojileri
+- **Veritabanları:** MySQL
+- **Framework'ler:** VueJS, Node.js, Flask
+- **Diğer Yetenekler:** RESTful API tasarımı
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fahrettinrizaergin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🌟 Projelerim
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### [🎉 Yakında Eklenecek]()
+Bu alana yakında eklenecek!
 
----
-[![](https://visitcount.itsvg.in/api?id=fahrettinrizaergin&icon=5&color=3)](https://visitcount.itsvg.in)
+## 🌱 Öğrenme ve Gelişme
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Yazılım geliştirme sürekli bir öğrenme sürecidir. Şu anda ilgilendiğim konulardan bazıları:
+
+- 📚 Python ile ilgili öğrenmekte olduğum alanlar Flask ile web geliştirmesi yapmaktayım
+- 📚 Node.js'i ile ilgili öğrenmekte olduğum alan sadece VueJS
+- 📚 Php ile ilgili öğrenmekte olduğum alan backend alanında RESTful API geliştirme
+- 📚 Dart (Flutter) ile ilgili öğrenmekte olduğum alan Android mobil uygulama geliştirme
+
+## 📫 İletişim
+
+Benimle aşağıdaki platformlardan iletişime geçebilirsiniz:
+
+- [LinkedIn](https://www.linkedin.com/in/fahrettin-riza-ergin)
+- [Instagram](https://www.instagram.com/fahrettin_riza_ergin/)
+- E-posta: hi@fahrettinrizaergin.com
+
+## 👏 Katkılarınızı Bekliyorum
+
+Eğer projelerim ilginizi çektiyse veya birlikte çalışmak isterseniz, çekme istekleri ve geri bildirimler her zaman değerlidir!
+
+Teşekkür ederim! 😊
