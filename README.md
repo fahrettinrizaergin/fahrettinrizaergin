@@ -13,7 +13,7 @@ To make an impact and contribute to the software world, I will continue to devel
 
 ## 💻 Teknolojik Beceriler
 
-- **Diller:** Python (kendimi geliştirmeye devam ediyorum), JavaScript (kendimi geliştirmeye devam ediyorum), Php  (kendimi geliştirmeye devam ediyorum), Dart (Flutter) (kendimi geliştirmeye devam ediyorum)
+- **Diller:** Python, JavaScript, Php, Dart (Flutter) bu alanlarda kendimi geliştirmeye devam ediyorum
 - **Web Geliştirme:** HTML, CSS, JavaScript, frontend ve backend teknolojileri
 - **Veritabanları:** MySQL
 - **Framework'ler:** VueJS, Node.js, Flask
