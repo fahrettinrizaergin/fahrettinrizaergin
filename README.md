@@ -39,7 +39,7 @@ You can reach out to me on the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/fahrettin-riza-ergin)
 - [Instagram](https://www.instagram.com/fahrettin_riza_ergin/)
-- Email: hi@fahrettinrizaergin.com
+- Email: fahrettinriza@hotmail.com
 
 ## 👏 Looking Forward
 
