@@ -13,9 +13,9 @@ To make a substantial impact and contribute to the software domain, I'm committe
 
 ## 💻 Technical Skills
 
-- **Languages:** Python, JavaScript, Php, Dart (Flutter) - Continuously improving in these areas
+- **Languages:** JavaScript (NodeJS), Php, Dart (Flutter) - Continuously improving in these areas
 - **Web Development:** HTML, CSS, JavaScript, both frontend and backend technologies
-- **Databases:** MySQL
+- **Databases:** MySQL, Mariadb, PostgreSQL
 - **Frameworks:** VueJS, Node.js, Flask
 - **Other Abilities:** RESTful API design
 
