@@ -16,7 +16,7 @@ To make a substantial impact and contribute to the software domain, I'm committe
 - **Languages:** JavaScript (NodeJS), Php, Dart (Flutter) - Continuously improving in these areas
 - **Web Development:** HTML, CSS, JavaScript, both frontend and backend technologies
 - **Databases:** MySQL, Mariadb, PostgreSQL
-- **Frameworks:** VueJS, Node.js, Flask
+- **Frameworks:** VueJS, ReactJS, Node.js, NextJS
 - **Other Abilities:** RESTful API design
 
 ## 🌟 My Projects
